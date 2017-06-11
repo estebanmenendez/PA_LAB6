@@ -8,8 +8,10 @@
  * File:   Chat.h
  * Author: esteban
  *
- * Created on 11 de junio de 2017, 12:04 AM
+ * Created on 11 de junio de 2017, 06:45 PM
  */
+
+
 #ifndef CHAT_H
 #define CHAT_H
 

@@ -8,12 +8,14 @@
  * File:   PropInmo.h
  * Author: esteban
  *
- * Created on 11 de junio de 2017, 12:07 AM
+ * Created on 11 de junio de 2017, 06:48 PM
  */
+
 #include <string.h>
 #include <stdio.h>
 #include <iostream>
 #include "Usuarios.h"
+
 
 using namespace std;
 
@@ -23,9 +25,9 @@ using namespace std;
 class propInmo {
     
     private:
-        Aviso * aviPropInmo;
-	Chat * chatPropInmo;
-        Propiedad * prop;
+        Aviso aviPropInmo;
+	Chat chatPropInmo;
+        Propiedad prop;
         
         
 public:

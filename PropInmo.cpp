@@ -8,9 +8,8 @@
  * File:   PropInmo.cpp
  * Author: esteban
  * 
- * Created on 11 de junio de 2017, 12:07 AM
+ * Created on 11 de junio de 2017, 06:48 PM
  */
-
 
 #include "PropInmo.h"
 using namespace std;

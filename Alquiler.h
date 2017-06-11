@@ -8,9 +8,8 @@
  * File:   Alquiler.h
  * Author: esteban
  *
- * Created on 11 de junio de 2017, 12:03 AM
+ * Created on 11 de junio de 2017, 06:44 PM
  */
-
 
 #ifndef VENTA_H
 #define VENTA_H

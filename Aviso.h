@@ -8,7 +8,7 @@
  * File:   Aviso.h
  * Author: esteban
  *
- * Created on 11 de junio de 2017, 12:02 AM
+ * Created on 11 de junio de 2017, 06:42 PM
  */
 
 #ifndef AVISO_H
@@ -26,17 +26,17 @@ public:
     aviso(const aviso& orig);
     virtual ~aviso();
        
-    virtual void setAviso(&propInmo);
+    virtual void setAviso( & PropInmo);
     virtual aviso getAviso();
     
-    virtual void crearAvisoProp(&Propiedad);
-    virtual void altaAlquiler(float);
+    virtual void crearAvisoProp( & Propiedad);
+    virtual void altaAlquiler();
     virtual void altaVenta(float);
   
 
 private:    
-    alquiler * propEnAlq;
-    venta * propEnVenta;
+    alquiler  propEnAlq;
+    venta  propEnVenta;
 
     
 

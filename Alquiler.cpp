@@ -8,8 +8,9 @@
  * File:   Alquiler.cpp
  * Author: esteban
  * 
- * Created on 11 de junio de 2017, 12:03 AM
+ * Created on 11 de junio de 2017, 06:44 PM
  */
+
 #include<string.h>
 #include <stdio.h>
 #include <iostream>

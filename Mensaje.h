@@ -8,9 +8,8 @@
  * File:   Mensaje.h
  * Author: esteban
  *
- * Created on 11 de junio de 2017, 12:06 AM
+ * Created on 11 de junio de 2017, 06:46 PM
  */
-
 
 #ifndef MENSAJE_H
 #define MENSAJE_H

@@ -8,9 +8,8 @@
  * File:   Mensaje.cpp
  * Author: esteban
  * 
- * Created on 11 de junio de 2017, 12:06 AM
+ * Created on 11 de junio de 2017, 06:46 PM
  */
-
 
 #include<string.h>
 #include<stdio.h>

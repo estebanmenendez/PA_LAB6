@@ -8,14 +8,14 @@
  * File:   Chat.cpp
  * Author: esteban
  * 
- * Created on 11 de junio de 2017, 12:04 AM
+ * Created on 11 de junio de 2017, 06:45 PM
  */
 
 #include<string.h>
 #include <stdio.h>
 #include <iostream>
 
-#include "chat.h"
+#include "Chat.h"
 
 int chat::getCodChat(){
 	return chat::getCodChat();
